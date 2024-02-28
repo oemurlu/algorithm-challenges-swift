@@ -2,4 +2,4 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                   | [TwoSum.swift](./solutions/TwoSum.playground)                                                 |
+|  1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                   | [TwoSum.swift](./solutions/TwoSum.playground/Contents.swift)                                                 |
