@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  9  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                     | [SearchInsertPosition.swift](./solutions/SearchInsertPosition.playground/Contents.swift)      |
 |  8  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                           | [LengthOfLastWord.swift](./solutions/LengthOfLastWord.playground/Contents.swift)              |
 |  7  | [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)                                                      | [MergeTwoSortedLists.swift](./solutions/MergeTwoSortedLists.playground/Contents.swift)        |
 |  6  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                                 | [IntegerToRoman.swift](./solutions/IntegerToRoman.playground/Contents.swift)                  |
