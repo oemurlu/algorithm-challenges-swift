@@ -2,6 +2,7 @@
 
 |   #  | Challenge                                                                                                       | Solution                                                                                                        |
 |  :-: | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------|
+|  11  | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                           | [MergeStringsAlternately.swift](./solutions/MergeStringsAlternately.playground/Contents.swift)                  |
 |  10  | [Remove Duplicates from Sorted Arr](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)         | [RemoveDuplicatesFromSortedArray.swift](./solutions/RemoveDuplicatesFromSortedArray.playground/Contents.swift)  |
 |   9  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                 | [SearchInsertPosition.swift](./solutions/SearchInsertPosition.playground/Contents.swift)                        |
 |   8  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                       | [LengthOfLastWord.swift](./solutions/LengthOfLastWord.playground/Contents.swift)                                |
