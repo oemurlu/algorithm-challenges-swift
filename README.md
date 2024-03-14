@@ -2,6 +2,7 @@
 
 |   #  | Challenge                                                                                                       | Solution                                                                                                        |
 |  :-: | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------|
+|  13  | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                    | [MedianOfTwoSortedArrays.swift](./solutions/MedianOfTwoSortedArrays.playground/Contents.swift)                  |
 |  12  | [28. Find the Index](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | [FindTheIndex.swift](./solutions/28-findTheIndex.playground/Contents.swift)                                     |
 |  11  | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                     | [MergeStringsAlternately.swift](./solutions/MergeStringsAlternately.playground/Contents.swift)                  |
 |  10  | [26. Remove Duplicates from Sorted Arr](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     | [RemoveDuplicatesFromSortedArray.swift](./solutions/RemoveDuplicatesFromSortedArray.playground/Contents.swift)  |
@@ -14,3 +15,4 @@
 |   3  | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                         | [RomanToInteger.swift](./solutions/RomanToInteger.playground/Contents.swift)                                    |
 |   2  | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                        | [PalindromeNumber.swift](./solutions/PalindromeNumber.playground/Contents.swift)                                |    
 |   1  | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                            | [TwoSum.swift](./solutions/TwoSum.playground/Contents.swift)                                                    |
+
