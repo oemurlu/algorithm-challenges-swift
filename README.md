@@ -1,7 +1,8 @@
-## Algorithm challenges and their solutions with Swift
+## Leetcode Algorithm Challenges and Their Solutions with Swift
 
 |   #  | Challenge                                                                                                       | Solution                                                                                                        |
 |  :-: | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------|
+|  14  | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                             | [GroupAnagrams.swift](./solutions/GroupAnagrams.playground/Contents.swift)                                      |
 |  13  | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                    | [MedianOfTwoSortedArrays.swift](./solutions/MedianOfTwoSortedArrays.playground/Contents.swift)                  |
 |  12  | [28. Find the Index](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | [FindTheIndex.swift](./solutions/28-findTheIndex.playground/Contents.swift)                                     |
 |  11  | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                     | [MergeStringsAlternately.swift](./solutions/MergeStringsAlternately.playground/Contents.swift)                  |
